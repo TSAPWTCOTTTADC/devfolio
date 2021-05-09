@@ -21,7 +21,8 @@ module.exports = {
       {
         name: 'High School Games Projects',
         description:
-          'Allotted one to two months to design a video game to present during the yearly celebration for the accomplishments of each of the school’s different magnet programs. Gained experience with collaborative programming and applied programming. Worked with a separate person on the project, each completing different portions of the game, in order to combine them for the finished product. An example was that one person programmed level generation while the other programmed how the character would move.',
+          'Allotted one to two months to design a video game to present during the yearly celebration for the accomplishments of each of the school’s different magnet programs. Gained experience with collaborative programming and applied programming. Worked with a separate person on the project, each completing different portions of the game, in order to combine them for the finished product. An example was that one person programmed level generation while the other programmed how the character would move. NOTE: link leads to nothing',
+        link: 'https://github.com/TSAPWTCOTTTADC',
       },
       {
         name: 'JumpStarters',
@@ -34,7 +35,8 @@ module.exports = {
     experience: [
       {
         name: 'Mt. Washington Pediatric Hospital',
-        description: 'Technical Intern, Summer 2016-Summer 2019                                                                                                                           Updated and managed staff and equipment information along with creating Excel spreadsheets to catalogue other data.',
+        description: 'Technical Intern, Summer 2016-Summer 2019                                                                                                                           Updated and managed staff and equipment information along with creating Excel spreadsheets to catalogue other data. NOTE: link leads to nothing',
+        link: 'https://github.com/TSAPWTCOTTTADC',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
