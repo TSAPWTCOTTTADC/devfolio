@@ -34,8 +34,7 @@ module.exports = {
     experience: [
       {
         name: 'Mt. Washington Pediatric Hospital',
-        description: 'Technical Intern, Summer 2016-Summer 2019',
-        'Updated and managed staff and equipment information along with creating Excel spreadsheets to catalogue other data.',
+        description: 'Technical Intern, Summer 2016-Summer 2019                                                                                                                           Updated and managed staff and equipment information along with creating Excel spreadsheets to catalogue other data.',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
